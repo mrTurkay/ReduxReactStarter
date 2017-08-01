@@ -28,7 +28,7 @@
 > npm start
 ```
 
-###Download zip file
+### Download zip file
 
 Or to download zip file click [here](https://github.com/mrTurkay/ReduxReactStarter/archive/master.zip) 
 
