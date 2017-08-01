@@ -9,10 +9,15 @@
 > cd ReduxReactStarter
 ```
 
-#### Remove git file and commit for your local
+#### Remove git file   
 
 ```
 > remove-item .git  -recurse -force
+```
+
+#### Commit for your local
+
+``` 
 > git init
 > git commit -m 'first commit'
 ```
@@ -27,3 +32,4 @@
 
 Or to download zip file click [here](https://github.com/mrTurkay/ReduxReactStarter/archive/master.zip) 
 
+Then you can open directory with command promt and start with (Commit for your local) part of this document above. 
